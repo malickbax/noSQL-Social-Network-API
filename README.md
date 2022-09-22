@@ -29,7 +29,6 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 ## License
 None
-
 ## Contributors
 Malick Ba, Software Engineer. This project was completed as part of assignments to Coding Bootcamp. 2022.
 
