@@ -28,4 +28,5 @@ A full walkthough video can be found [here](https://drive.google.com/file/d/1_0k
 
 ## More Projects
 For any questions about this project, please email me: malickbax@gmail.com
+
 For more of my projects, please visit my [GitHub page](https://github.com/malickbax)
