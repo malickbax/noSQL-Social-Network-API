@@ -1,6 +1,6 @@
-# NoSQL: Social Network API
+# Social Network API
 ## Description
-This is an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. Express.js is used for routing, a MongoDB database, and the Mongoose ODM.
+This is an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. Express.js is used for routing, a MongoDB database, and the Mongoose ODM. This application the native JavaScript Date object to format timestamps. A URL to the walkthrough video demonstrating some functionalities is avaiblable below. While the application is not perfect, it shows the possibilities of APIs when it comes to social networking applications.
 
 ## Table of Contents
 - [Description](#description)
