@@ -12,6 +12,7 @@ const {
   deleteThought,
 } = require("../../controllers/thought-controller");
 
+// CREDIT: Section worked on with collaboration from coder colleague Brams Lo
 // Setting routes for thoughts - GET, add, create, delete 
 router.route("/").get(getAllThoughts).post(createThought);
 router
