@@ -4,14 +4,9 @@ This is an API for a social network web application where users can share their 
 
 ## Table of Contents
 - [Description](#description)
-- [Installation](#installation)
 - [User Story](#user-story)
-- [License](#license)
-- [Contributors](#contributors)
-- [Test](#test)
-
-## Installation
-Clone this repo and intall the proper NPM packages
+- [Installation](#installation)
+- [Walkthough-video](#walkthrough-video)
 
 ## User Story
 GIVEN a social network API
@@ -27,15 +22,12 @@ THEN I am able to successfully create, update, and delete users and thoughts in 
 WHEN I test API POST and DELETE routes in Insomnia
 THEN I am able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list
 
-## License
-None
+## Installation 
+Clone this repo and intall the proper NPM packages. You will neeed MongoDB and Node.js installed. To start, go to the root directory of this application and run `npm i` from your CLI. Then, `npm start` to launch the server. The application has been set to serve on localhost port 3001. From there, use Insomnia to run any tests that you may need.
 
-## Contributors
-Malick Ba, Software Engineer. This project was completed as part of assignments to Coding Bootcamp. 2022.
-
-## Test
-No testing required
+## Walkthough Video
+A full walkthough video can be found [here](......................)
 
 ## More Projects
-For more projects, please visit my [GitHub page](https://github.com/malickbax)
+This project was completed as part of assignments to Coding Bootcamp. 2022. For more of my projects, please visit my [GitHub page](https://github.com/malickbax)
 
