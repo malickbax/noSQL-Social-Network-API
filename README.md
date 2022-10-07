@@ -21,7 +21,7 @@ Clone this repo and intall the proper NPM packages. You will neeed MongoDB and N
 
 To start using this API, go to the root directory of this application and run `npm i` from your CLI. Then, `npm start` to launch the server. The application has been set to serve on localhost port 3001. From there, use Insomnia to run any tests that you may need.
 
-## Walkthough Video
+## Usage
 A full walkthough video can be found [here](https://drive.google.com/file/d/1_0kt4sclbheGYw2ph0CYW5Pn39C264s_/view?usp=sharing)
 
 ![Screenshot](/assets/malick-ba-tutorial.gif)
