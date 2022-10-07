@@ -1,7 +1,7 @@
 {
   "name": "nosql-social-network-api",
   "version": "1.0.0",
-  "description": "An API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. Express.js is used for routing, a MongoDB database, and the Mongoose ODM.",
+  "description": "An API for a social network where users can share their thoughts, react to friends thoughts, and create a friend list. Using Express.js is used for routing, a MongoDB database, and the Mongoose ODM.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
