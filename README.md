@@ -6,8 +6,8 @@ This is a social network API where users can share their thoughts, react to frie
 - [Description](#description)
 - [User Story](#user-story)
 - [Installation](#installation)
-- [Walkthough-video](#walkthrough-video)
-- [more-projects](#more-projects)
+- [Walkthough Video](#walkthrough-video)
+- [More Projects](#more-projects)
 
 ## User Story
 GIVEN a social network API:
