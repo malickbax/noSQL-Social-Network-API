@@ -10,7 +10,7 @@ This is a social network API where users can share their thoughts, react to frie
 - [More Projects](#more-projects)
 
 ## User Story
-GIVEN a social network API:
+Given a social network API:
 - When I enter the command to invoke the application, my server is started and the Mongoose models are synced to the MongoDB database.
 - When I open API GET routes in Insomnia for users and thoughts, the data for each of these routes is displayed in a formatted JSON.
 - When I test API POST, PUT, and DELETE routes in Insomnia, I am able to successfully create, update, and delete users and thoughts in my database.
